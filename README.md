@@ -1,5 +1,7 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## Name: Renick Fabian Rajesh
+## Reg No: 212224230227
+## Date: 13/05/2025
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
